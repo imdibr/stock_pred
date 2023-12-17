@@ -1,3 +1,3 @@
 # Stock prediction
 
-My first coding proj
+My first coding project
