@@ -1,3 +1,3 @@
-#Stock prediction
+# Stock prediction
 
 My first coding proj
